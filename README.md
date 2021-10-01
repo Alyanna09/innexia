@@ -10,7 +10,7 @@
 
 <p align="center"><a href="https://t.me/nttsreborn"><img src="(https://telegra.ph/file/e641d3dd2ccdce6a3d934.jpg)" width="400"></a></p>
 
-## Available on Telegram as [@Innexia](https://t.me/nttsreborn)
+## Available on Telegram as [@nttsreborn](https://t.me/nttsreborn)
 
 # ❤️ Support
 <a href="https://t.me/DeeCodeBots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
